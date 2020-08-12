@@ -1,12 +1,12 @@
 {
-  "name": "graphql_basics",
+  "name": "simple_graphql",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is simple to used graphql ",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js --ext js,graphql --exec babel-node"
   },
-  "author": "",
+  "author": "Mohammed Al-Reai <mhamad.aa1997.aa@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.1.5",

@@ -2,18 +2,18 @@ const users = [
   {
     id: '1',
     name: 'Andrew',
-    email: 'andrew@mail.com',
+    email: 'gaza@mail.com',
     age: 27
   },
   {
     id: '2',
-    name: 'Sarah',
-    email: 'sarah@mail.com'
+    name: 'pa',
+    email: 'pa@mail.com'
   },
   {
     id: '3',
-    name: 'Mike',
-    email: 'mike@mail.com'
+    name: 'for',
+    email: 'look@mail.com'
   }
 ];
 
@@ -35,7 +35,7 @@ const posts = [
   {
     id: '3',
     title: 'GraphQL in 30 minutes',
-    body: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem',
+    body: "react application was greet thing with node js and graphql and prisma applicatio",
     published: true,
     author: '2'
   }
